@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Games made with java</b>
   - [Simple typing game](https://github.com/SanteriLehto02/Typing-game)
-
+  - [Mario copy](https://github.com/SanteriLehto02/Mario-copy)
 
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
