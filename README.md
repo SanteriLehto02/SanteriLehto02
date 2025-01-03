@@ -5,7 +5,7 @@
 
 
 - <b>Full Stack Web App (React, Spring Boot, PostreSQL)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Retail-store](https://github.com/SanteriLehto02/Retail-store)
 - <b>Games made with java</b>
   - [Simple typing game](https://github.com/SanteriLehto02/Typing-game)
   - [Mario copy](https://github.com/SanteriLehto02/Mario-copy)
