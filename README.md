@@ -9,6 +9,7 @@
 - <b>Games made with java</b>
   - [Simple typing game](https://github.com/SanteriLehto02/Typing-game)
   - [Mario copy](https://github.com/SanteriLehto02/Mario-copy)
+  - [Flappy bird copy](https://github.com/SanteriLehto02/Flappy-bird-copy)
 
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
