@@ -10,7 +10,8 @@
   - [Simple typing game](https://github.com/SanteriLehto02/Typing-game)
   - [Mario copy](https://github.com/SanteriLehto02/Mario-copy)
   - [Flappy bird copy](https://github.com/SanteriLehto02/Flappy-bird-copy)
-
+- <b>C projects</b>
+  - [6502 emulator](https://github.com/SanteriLehto02/6502)
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
 
